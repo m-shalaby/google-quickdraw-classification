@@ -1,0 +1,3 @@
+Baseline cross validation for Custom Neural Network 
+Best parameters: {'batch_size': 100, 'epoch': 15, 'layer_count': 2, 'learning_rate': 1000, 'node_per_layer': 1000}
+Best score: 0.0272

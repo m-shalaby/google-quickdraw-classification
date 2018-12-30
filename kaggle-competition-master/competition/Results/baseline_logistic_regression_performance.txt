@@ -1,0 +1,3 @@
+Baseline cross validation for Logistic Regression 
+Best parameters: {'C': 0.018329807108324356, 'penalty': 'l2'}
+Best score: 0.3415

@@ -1,0 +1,3 @@
+Baseline cross validation for SVC 
+Best parameters: {'C': 0.01, 'gamma': 1, 'kernel': 'linear'}
+Best score: 0.3897
