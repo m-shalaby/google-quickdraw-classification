@@ -4,8 +4,10 @@ The purpose of this project is to design a machine learning algorithm that can a
 # Steps
   1) Feature Design
   2) Classifiers
+  
     a) Logistic Regression
     b) Linear Support Vector Machine
     c) Feed-Forward Neural Network
     d) Convolutional Neural Network
+    
   3) Hyper-parameter Tuning
